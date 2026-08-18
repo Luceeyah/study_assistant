@@ -1,0 +1,6 @@
+.env
+*.pyc
+__pycache__/
+study_notes_*.txt
+meeting_summary_*.txt
+
