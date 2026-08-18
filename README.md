@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Study & Meeting Assistant
 
 A Streamlit web application that uses DeepSeek AI to:
@@ -35,3 +36,7 @@ A Streamlit web application that uses DeepSeek AI to:
    ```bash
    pip install streamlit python-dotenv openai
 
+=======
+# study_assistant
+AI Study &amp; Meeting Assistant - Capstone Project
+>>>>>>> 96145c7d188f52c0f1b6db4f1dad28c013dbdec5
